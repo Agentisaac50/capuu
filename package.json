@@ -1,0 +1,21 @@
+{
+  "name": "standardearners",
+  "version": "1.0.0",
+  "description": "StandardEarners - Safari Trips & Smart Earnings Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "safari",
+    "trips",
+    "investment",
+    "earnings"
+  ],
+  "author": "StandardEarners",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
